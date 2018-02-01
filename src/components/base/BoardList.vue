@@ -19,7 +19,7 @@
             </ul>
           </div>
 
-          <a href="javascript:;" class="my-btn">了解详情</a>
+          <a href="javascript:;" class="my-btn" v-show="false">了解详情</a>
         </div>
       </div>
     </div>
