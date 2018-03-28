@@ -6,4 +6,7 @@
   <component name="SvnBranchConfigurationManager">
     <option name="mySupportsUserInfoFilter" value="true" />
   </component>
+  <component name="WebPackConfiguration">
+    <option name="path" value="$PROJECT_DIR$/NBproject/build/webpack.base.conf.js" />
+  </component>
 </project>
